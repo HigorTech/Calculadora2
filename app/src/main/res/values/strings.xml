@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora 2</string>
+    <string name="legenda_um">Digite o Primeiro Numero:</string>
+    <string name="legenda_2">Digite o Segundo Numero:</string>
+    <string name="legenda_3">Agora, Selecione a Operação:</string>
+    <string name="soma">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">X</string>
+    <string name="divisao">/</string>
+    <string name="resultado">Resultado: </string>
+</resources>
